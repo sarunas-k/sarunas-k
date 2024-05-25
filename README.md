@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 
 - 🌱 I’m currently learning Node.js server and API design 
 - 👯 I’m looking to collaborate on challenging web projects with Vue3, PHP, Laravel as well as C++, C#, Java. 
