@@ -1,6 +1,4 @@
-## Hi
-
 - I’m currently learning AWS 
-- I’m looking to collaborate on challenging web projects with Vue3, PHP, Laravel as well as C++, C#, Java. 
+- I’m looking to collaborate on challenging web projects with Vue3, PHP, Laravel as well as Java, C++, C#. 
 - Ask me about anything, I hope I know the answer 🙂
 - Fun fact: Punch card gets lighter the more you write to it.
