@@ -1,4 +1,5 @@
-- I’m currently learning AWS 
-- I’m looking to collaborate on challenging web projects with Vue3, PHP, Laravel as well as Java, C++, C#. 
+- I’m currently leveraging PHP with JavaScript
+- 5 kyu in Codewars
+- Looking to collaborate on challenging web projects
 - Ask me about anything, I hope I know the answer 🙂
-- Fun fact: Punch card gets lighter the more you write to it.
+- Fun fact: Punch card gets lighter the more you write to it
